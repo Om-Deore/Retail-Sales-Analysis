@@ -81,16 +81,16 @@ This project answers:
 # 📊 Visualizations
 
 ### **1. Sales by Month**
-![Sales by Month](figures/sales_by_month.png)
+![Sales by Month](Figures/sales_by_month.png)
 
 ### **2. Top 10 Products by Revenue**
-![Top Products](figures/top_products_revenue.png)
+![Top Products](Figures/top_products_revenue.png)
 
 ### **3. Sales by Category**
-![Sales by Category](figures/sales_by_category.png)
+![Sales by Category](Figures/sales_by_category.png)
 
 ### **4. Order Value Distribution**
-![Order Value Distribution](figures/order_value_distribution.png)
+![Order Value Distribution](Figures/order_value_distribution.png)
 
 ---
 
